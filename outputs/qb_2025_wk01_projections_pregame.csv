@@ -1,0 +1,33 @@
+player_name,team,opp_team,season,week,is_home,vegas_implied_pts,proj_fp,tier
+L.Jackson,BAL,BUF,2025,1,0,24.5,25.323471,Elite
+B.Mayfield,TB,ATL,2025,1,0,23.0,21.691175,Strong
+J.Herbert,LAC,KC,2025,1,1,25.25,20.028318,Strong
+B.Nix,DEN,TEN,2025,1,1,17.0,19.74745,Strong
+J.Burrow,CIN,CLE,2025,1,0,21.0,18.092838,Strong
+J.Allen,BUF,BAL,2025,1,1,26.0,17.57129,Start
+K.Murray,ARI,NO,2025,1,0,19.25,17.208622,Start
+J.Daniels,WAS,NYG,2025,1,1,19.75,16.939205,Start
+P.Mahomes,KC,LAC,2025,1,0,22.25,16.825157,Start
+J.Goff,DET,GB,2025,1,0,25.0,16.018969,Start
+J.Hurts,PHI,DAL,2025,1,1,19.5,16.00635,Start
+B.Purdy,SF,SEA,2025,1,0,20.5,15.475483,Start
+C.Williams,CHI,MIN,2025,1,1,22.5,15.321307,Start
+T.Lawrence,JAX,CAR,2025,1,1,20.5,14.651802,Stream
+T.Tagovailoa,MIA,IND,2025,1,0,24.5,14.03398,Stream
+R.Wilson,PIT,NYJ,2025,1,0,17.25,13.920952,Stream
+B.Young,CAR,JAX,2025,1,0,25.0,13.919797,Stream
+D.Maye,NE,LV,2025,1,1,21.0,13.845509,Stream
+M.Stafford,LA,HOU,2025,1,1,20.0,13.638867,Stream
+J.Love,GB,DET,2025,1,1,23.5,11.634161,Stream
+C.Stroud,HOU,LA,2025,1,0,23.5,11.236447,Stream
+J.J. McCarthy,MIN,CHI,2025,1,0,21.0,8.533928,Stream
+Justin Fields,NYJ,PIT,2025,1,1,20.25,7.8075724,Stream
+Geno Smith,LV,NE,2025,1,0,23.5,7.7684193,Stream
+Michael Penix Jr.,ATL,TB,2025,1,1,24.5,7.3095665,Stream
+Cam Ward,TEN,DEN,2025,1,0,25.5,7.2023606,Stream
+Daniel Jones,NYG,WAS,2025,1,0,25.75,7.0309362,Stream
+Sam Darnold,SEA,SF,2025,1,1,23.0,6.895713,Stream
+Joe Flacco,CLE,CIN,2025,1,1,26.5,6.7750688,Stream
+Spencer Rattler,NO,ARI,2025,1,1,25.25,6.391671,Stream
+Dak Prescott,DAL,PHI,2025,1,0,28.0,5.4696836,Stream
+Daniel Jones,IND,MIA,2025,1,1,23.0,5.176433,Stream
