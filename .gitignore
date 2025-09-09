@@ -1,19 +1,2 @@
-# Ignore everything by default
-*
-# Keep these
-!.gitignore
-!.gitattributes
-!README.md
+!QB_weekly_V2.1.ipynb
 
-# Keep the three notebooks
-!Model exploration V1.ipynb
-!get_fantasy_football_data.ipynb
-!QB_weekly_V2.ipynb
-
-# Keep specific outputs/models (examples)
-!outputs/
-!outputs/qb_2025_wk01_projections_pregame.csv
-!models/
-!models/qb_xgb.json
-!models/qb_xgb_cal.joblib
-!models/qb_features.json
