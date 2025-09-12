@@ -3,3 +3,6 @@
 !notebooks/
 !notebooks/*.ipynb
 notebooks/.ipynb_checkpoints/
+!notebooks/
+!notebooks/*.ipynb
+notebooks/.ipynb_checkpoints/
