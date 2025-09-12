@@ -1,2 +1,5 @@
 !QB_weekly_V2.1.ipynb
 
+!notebooks/
+!notebooks/*.ipynb
+notebooks/.ipynb_checkpoints/
